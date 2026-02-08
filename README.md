@@ -45,24 +45,9 @@ int main(void)
 	return 0; }
 
 ```
-
-
-
-
-
-
-
-
-
-##OUTPUT
+## OUTPUT
 
 <img width="564" height="131" alt="Screenshot from 2026-02-06 09-00-24" src="https://github.com/user-attachments/assets/103bfa59-ffa7-40b6-9085-5fa2f2fa0f18" />
-
-
-
-
-
-
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 ```
@@ -92,25 +77,9 @@ printf("Running ps with execlp. Now with path specified\n");
         exit(0);}
 ```
 
-##OUTPUT
+## OUTPUT
 
 <img width="594" height="545" alt="Screenshot from 2026-02-06 09-08-19" src="https://github.com/user-attachments/assets/f76ca70a-f409-462e-b3d0-6e2bf01258e6" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# RESULT:
+## RESULT:
 The programs are executed successfully.
